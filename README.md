@@ -12,3 +12,6 @@ Sometime evernote_archive.enex needs hand editting.
 
 
 This tool is provided "as is", without warranty.
+
+
+More info on http://www.a.math.ryukoku.ac.jp/~hig/projects/mt2en/ in Japanese and English
